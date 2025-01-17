@@ -120,9 +120,11 @@ LIMIT 5;
 ### Interactive Bar Charts with Plotly
 
 - **Top 5 Selling Albums**:
+![top five selling Albums](https://github.com/user-attachments/assets/30c8fbe4-fbd9-4791-9096-99a6e1e08b05)
 
 
 - **Top 5 Selling Artists**:
+![Top five selling Artists](https://github.com/user-attachments/assets/b6399e71-6815-46b6-a520-893927394d02)
 
 
 - **Top 5 Selling Tracks**:
