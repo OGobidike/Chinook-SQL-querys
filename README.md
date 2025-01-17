@@ -1,4 +1,4 @@
-# 🖈️ Northwind Queries: A Data Explorer's Dream!
+# 🖈️ Chinook Querys: A Data Explorer's Dream!
 
 Welcome to **Northwind Queries**, a project dedicated to unearthing insights from the iconic Northwind database. Through a series of carefully crafted SQL queries, this project reveals fascinating details about products, suppliers, employees, and categories—all wrapped in a fun, data-driven package! 🎮
 
